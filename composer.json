@@ -1,0 +1,9 @@
+{
+    "require": {
+        "react/event-loop": "^1.5",
+        "react/http": "^1.9",
+        "react/react": "^1.4",
+        "react/mysql": "^0.6.0",
+        "react/datagram": "^1.9"
+    }
+}
